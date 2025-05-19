@@ -17,7 +17,7 @@ This **AI-powered voice assistant** helps you perform daily tasks **hands-free**
 ## 🛠️ Installation & Setup  
 1️⃣ **Clone the repository** 🛠️  
 ```bash
-git clone https://github.com/your-repo/VoiceAssistant.git
+git clone https://github.com/Muskaanng/VoiceAssistant.git
 cd VoiceAssistant
 ```
 2️⃣ **Install dependencies** 📦  
